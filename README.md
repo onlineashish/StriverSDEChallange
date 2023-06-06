@@ -1,2 +1,2 @@
 # StriverSDEChallange
-solve daily coding problems
+solve coding problems here- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
